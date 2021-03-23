@@ -1,0 +1,6 @@
+C:\Users\FPT\source\repos\3LOP_QLBH\QLBH_DAL\bin\Debug\QLBH_DAL.dll
+C:\Users\FPT\source\repos\3LOP_QLBH\QLBH_DAL\bin\Debug\QLBH_DAL.pdb
+C:\Users\FPT\source\repos\3LOP_QLBH\QLBH_DAL\obj\Debug\QLBH_DAL.csprojAssemblyReference.cache
+C:\Users\FPT\source\repos\3LOP_QLBH\QLBH_DAL\obj\Debug\QLBH_DAL.csproj.CoreCompileInputs.cache
+C:\Users\FPT\source\repos\3LOP_QLBH\QLBH_DAL\obj\Debug\QLBH_DAL.dll
+C:\Users\FPT\source\repos\3LOP_QLBH\QLBH_DAL\obj\Debug\QLBH_DAL.pdb

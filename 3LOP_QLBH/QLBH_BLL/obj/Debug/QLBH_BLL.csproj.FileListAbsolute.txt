@@ -1,0 +1,9 @@
+C:\Users\FPT\source\repos\3LOP_QLBH\QLBH_BLL\bin\Debug\QLBH_BLL.dll
+C:\Users\FPT\source\repos\3LOP_QLBH\QLBH_BLL\bin\Debug\QLBH_BLL.pdb
+C:\Users\FPT\source\repos\3LOP_QLBH\QLBH_BLL\bin\Debug\QLBH_DAL.dll
+C:\Users\FPT\source\repos\3LOP_QLBH\QLBH_BLL\bin\Debug\QLBH_DAL.pdb
+C:\Users\FPT\source\repos\3LOP_QLBH\QLBH_BLL\obj\Debug\QLBH_BLL.csprojAssemblyReference.cache
+C:\Users\FPT\source\repos\3LOP_QLBH\QLBH_BLL\obj\Debug\QLBH_BLL.csproj.CoreCompileInputs.cache
+C:\Users\FPT\source\repos\3LOP_QLBH\QLBH_BLL\obj\Debug\QLBH_BLL.csproj.CopyComplete
+C:\Users\FPT\source\repos\3LOP_QLBH\QLBH_BLL\obj\Debug\QLBH_BLL.dll
+C:\Users\FPT\source\repos\3LOP_QLBH\QLBH_BLL\obj\Debug\QLBH_BLL.pdb
